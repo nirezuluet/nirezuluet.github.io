@@ -36,6 +36,7 @@
 
 ## Oral presentations and interviews
 [ISMB/ECCB 2023 - Pathogenicity scoring of genetic variants through federated learning across independent institutions reaches comparable or superior performance than the centralized-data model counterparts](https://www.youtube.com/watch?v=_WNiVzcS3ts)
+
 [Khipu 2019- First Latino American meeting in Artificial Intelligence](https://www.youtube.com/watch?v=Vq_PKNagLR4&t=811s)
 
 
