@@ -3,9 +3,9 @@
 #### Technical Skills: Machine Learning & Deep Learning, Data Analysis, Data Visualisation, Python, Linux 
 
 ## Education
-- Ph.D., Machine Learning and Medical Genomics | Université Paris Cité, France (_Dec 2024_)								       		
-- M.S., Applied Mathematics	| Havana University, Cuba (_Oct 2020_)	 			        		
-- B.S., Computer Science | Havana University, Cuba (_Jul 2017_)
+- Ph.D., Machine Learning and Medical Genomics, Université Paris Cité, France (_Dec 2024_)								       		
+- M.S., Applied Mathematics, Havana University, Cuba (_Oct 2020_)	 			        		
+- B.S., Computer Science, Havana University, Cuba (_Jul 2017_)
 
 ## Work Experience
 **PhD. research student @ Institut Imagine, Paris, France (_June 2021 - Present_)**
@@ -29,10 +29,10 @@
 [Publication](https://www.academia.edu/44700907/Automatic_Segmentation_of_Diabetic_foot_ulcer_from_Mask_Region_Based_Convolutional_Neural_Networks)
 
 ## Awards and Grants
-- Best oral communication and Audience Choice Awards at APJBC Conference | Okinawa, Japan (_Oct 2024_)
-- Sofia Kovalevskaya Award to the best Master's Thesis in Mathematics | Havana, Cuba (_Mar 2021_)
-- Scholarship to attend Oxford Machine Learning Summer School (online) | Oxford, England (_Jul 2020_)
-- Travel and accommodation grant to attend Khipu 2019 : First Latino American meeting in Artificial Intelligence | Montevideo, Uruguay (_Nov 2019_)
+- Best oral communication and Audience Choice Awards at 1st Asia & Paciﬁc Bioinformatics Joint Conference, Okinawa, Japan (_Oct 2024_)
+- Sofia Kovalevskaya Award to the best Master's Thesis in Mathematics,  Havana, Cuba (_Mar 2021_)
+- Scholarship to attend Oxford Machine Learning Summer School (online), Oxford, England (_Jul 2020_)
+- Travel and accommodation grant to attend Khipu 2019 : First Latino American meeting in Artificial Intelligence, Montevideo, Uruguay (_Nov 2019_)
 
 ## Oral presentations and interviews
 [ISMB/ECCB 2023 - Pathogenicity scoring of genetic variants through federated learning across independent institutions reaches comparable or superior performance than the centralized-data model counterparts](https://www.youtube.com/watch?v=_WNiVzcS3ts)
